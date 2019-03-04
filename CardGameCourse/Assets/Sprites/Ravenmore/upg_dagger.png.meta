@@ -133,7 +133,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab90720f31eb2d240b3536ada051ebb1
+      spriteID: cd3aa919089acd5439791492dddc690d
       vertices: []
       indices: 
       edges: []
@@ -142,7 +142,7 @@ TextureImporter:
       name: upg_dagger_1
       rect:
         serializedVersion: 2
-        x: 161
+        x: 159
         y: 101
         width: 197
         height: 239
@@ -153,7 +153,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0186355922d5fe468b95f13f17a1dd3
+      spriteID: 27b2d796bf9a05642a3fa0f4a08f01e8
       vertices: []
       indices: 
       edges: []
